@@ -187,7 +187,7 @@
 
 					https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=d843033d988d5249d5583f877f0015be
 
-[5 - Summary](https://doc.rust-lang.org/std/)
+5 - Summary
 
 		In this module, you learned: 
 			- Types of applications you can build by using the Rust programming language. 
@@ -203,10 +203,10 @@
 			By following the recipes, you can learn how to work with commonly used crates in Rust. 
 			The recipes cover a wide-range of topics, including processing text and numbers, working with databases, applying common algorithms, and debugging programs.
 
-		References
+References
 
-			- [Rust std standard library](https://doc.rust-lang.org/std/)
-			- Rust crates.io library repository
-			- Rust cookbook recipes
-			- Rust playground help
-			- Stack overflow developer survey of 2022
+- [Rust std standard library](https://doc.rust-lang.org/std/)
+- [Rust crates.io library repository](https://crates.io/)
+- [Rust cookbook recipes](https://rust-lang-nursery.github.io/rust-cookbook/)
+- [Rust playground help](https://play.rust-lang.org/help)
+- [Stack overflow developer survey of 2022](https://survey.stackoverflow.co/2022/#overview?azure-portal=true)
