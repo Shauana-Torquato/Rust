@@ -187,3 +187,18 @@
 
 					https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=d843033d988d5249d5583f877f0015be
 
+5 - Summary
+
+		In this module, you learned: 
+			- Types of applications you can build by using the Rust programming language. 
+			- Rust is useful for both low-level and high-level types of development.
+			- Rust commands to work with your code. 
+			- The (rustc) command is used to write and compile Rust programs.
+			- The Rust Cargo feature and the module system for code organization. 
+			- Use Cargo to create a new project, and build and run it.
+
+		Try recipes in the Rust Cookbook
+
+			The Rust Cookbook contains recipes for code that follows recommended practices for common programming tasks. 
+			By following the recipes, you can learn how to work with commonly used crates in Rust. 
+			The recipes cover a wide-range of topics, including processing text and numbers, working with databases, applying common algorithms, and debugging programs.
