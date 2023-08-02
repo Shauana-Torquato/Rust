@@ -187,7 +187,7 @@
 
 					https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=d843033d988d5249d5583f877f0015be
 
-5 - Summary
+[5 - Summary](https://doc.rust-lang.org/std/)
 
 		In this module, you learned: 
 			- Types of applications you can build by using the Rust programming language. 
@@ -205,7 +205,7 @@
 
 		References
 
-			- [[Rust std standard library](https://doc.rust-lang.org/std/)]
+			- [Rust std standard library](https://doc.rust-lang.org/std/)
 			- Rust crates.io library repository
 			- Rust cookbook recipes
 			- Rust playground help
