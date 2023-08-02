@@ -205,7 +205,7 @@
 
 		References
 
-			- [Rust std standard library] (https://doc.rust-lang.org/std/)
+			- [[Rust std standard library](https://doc.rust-lang.org/std/)]
 			- Rust crates.io library repository
 			- Rust cookbook recipes
 			- Rust playground help
