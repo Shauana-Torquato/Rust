@@ -202,3 +202,11 @@
 			The Rust Cookbook contains recipes for code that follows recommended practices for common programming tasks. 
 			By following the recipes, you can learn how to work with commonly used crates in Rust. 
 			The recipes cover a wide-range of topics, including processing text and numbers, working with databases, applying common algorithms, and debugging programs.
+
+		References
+
+			- [Rust std standard library] (https://doc.rust-lang.org/std/)
+			- Rust crates.io library repository
+			- Rust cookbook recipes
+			- Rust playground help
+			- Stack overflow developer survey of 2022
